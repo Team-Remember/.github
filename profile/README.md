@@ -14,7 +14,7 @@
 ![main function](https://github.com/Team-Remember/.github/blob/main/img/main%20function.png)
 
 ## REmember Me 구조
-![technology structure](https://github.com/Team-Remember/.github/blob/main/img/data%20%20structure.png)
+![technology structure](https://github.com/Team-Remember/.github/blob/main/img/data%20structure.png)
 1. 유저는 공개, 비공개 방에서 문자, 음성 채팅, 공간, 캐릭터 커스텀이 가능하며 커뮤니티 활동 또한 가능합니다.
 2. 플랫폼 내에서 쌓인 데이터는 플랫폼 DB에 쌓이며 유저가 복원을 원할 때 데이터 기반으로 복원된 AI를 제공합니다. **(데이터 리사이클링)**
 3. 유저가 플랫폼에서 활동을 하지 않았더라도 즉각복원 기능을 사용하여 카카오톡과 같은 외부데이터로 AI 복원기능을 사용 가능합니다.
