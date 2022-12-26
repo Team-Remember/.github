@@ -27,14 +27,7 @@
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
 - AI Server<br>
-<img src="https://img.shields.io/badge/Google Compute Engine-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white">
-<img src="https://img.shields.io/badge/Google Cloud storage-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-<img src="https://img.shields.io/badge/ONNX Runtime-005CED?style=for-the-badge&logo=ONNX&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
-<img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
-<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+<img src="https://img.shields.io/badge/Google Compute Engine-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"><img src="https://img.shields.io/badge/Google Cloud storage-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"><img src="https://img.shields.io/badge/ONNX Runtime-005CED?style=for-the-badge&logo=ONNX&logoColor=white"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"><img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"><img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
 
 
 ## 기술 융합 구조도
