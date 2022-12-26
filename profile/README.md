@@ -36,6 +36,7 @@
 
 ## 수상 결과
 - 최종 성과공유회 우수상 수상 (한국전파진흥협회장)
-![reward](https://github.com/Team-Remember/.github/blob/main/img/reward.jpg)
+
+<img src="https://github.com/Team-Remember/.github/blob/main/img/reward.jpg" width="250" height="200"/><br>
 ## 시연 영상
 [![REmember ME 시연 영상](https://github.com/Team-Remember/.github/blob/main/img/youtube%20link.png)](https://youtu.be/0zYosRkKpBA?t=0s) 
