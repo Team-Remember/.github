@@ -34,9 +34,13 @@
 5. 학습 서버와 추론서버, 자연어 서버와 음성 서버를 분리하여 안정적인 파이프라인을 구축 
 6. 개인화 음성의 경우 model Storage에서 개인별로 checkpoint를 관리
 
+## AI 파이프라인
+![AI pipeline](https://github.com/Team-Remember/.github/blob/main/img/AI%20pipeline.png)<br>
+
 ## 수상 결과
 - 최종 성과공유회 우수상 수상 (한국전파진흥협회장)
-
 <img src="https://github.com/Team-Remember/.github/blob/main/img/reward.jpg" width="500" height="400"/><br>
+
+
 ## 시연 영상
 [![REmember ME 시연 영상](https://github.com/Team-Remember/.github/blob/main/img/youtube%20link.png)](https://youtu.be/0zYosRkKpBA?t=0s) 
