@@ -33,5 +33,9 @@
 4. 응용 Api서버에서 필요한 AI api 를 호출하여 AI 의 서버에 부하를 방지하고 기능에 집중
 5. 학습 서버와 추론서버, 자연어 서버와 음성 서버를 분리하여 안정적인 파이프라인을 구축 
 6. 개인화 음성의 경우 model Storage에서 개인별로 checkpoint를 관리
+
+## 수상 결과
+- 최종 성과공유회 우수상 수상 (한국전파진흥협회장)
+![reward](https://github.com/Team-Remember/.github/blob/main/img/reward.jpg)
 ## 시연 영상
 [![REmember ME 시연 영상](https://github.com/Team-Remember/.github/blob/main/img/youtube%20link.png)](https://youtu.be/0zYosRkKpBA?t=0s) 
