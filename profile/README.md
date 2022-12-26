@@ -5,13 +5,13 @@
 
 ## 기획의도
 - 그리워 하는순간을 다시 만날 수 있다면 어떨까? 라는 질문에 시장이 제시한 방법인 다큐, 캠페인, 추모였습니다.
-![planing intention](../img/planing%20intention.png)
+![planing intention](https://github.com/Team-Remember/.github/blob/main/img/planing%20intention.png)
 - 시장의 한계를 파악하고 해결하기 위한 프로젝트 REmember ME
-![solution](../img/solution.png)
+![solution](https://github.com/Team-Remember/.github/blob/main/img/solution.png)
 <br>
 
 ## 주요 기능
-![main function](../img/main%20function.png)
+![main function](https://github.com/Team-Remember/.github/blob/main/img/main%20function.png)
 
 ## 주요 사용 기술
 - Client(Desktop)<br>
@@ -26,4 +26,4 @@
 
 
 ## 기술 융합 구조도
-![technology structure](../img/technology%20convergence%20structure%20diagram.png)
+![technology structure](https://github.com/Team-Remember/.github/blob/main/img/technology%20convergence%20structure%20diagram.png)
