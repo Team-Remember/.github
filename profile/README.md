@@ -29,4 +29,4 @@
 ![technology structure](https://github.com/Team-Remember/.github/blob/main/img/technology%20convergence%20structure%20diagram.png)
 
 ## 시연 영상
-[![REmember ME 시연 영상](http://img.youtube.com/vi/0zYosRkKpBA/0.jpg)](https://youtu.be/0zYosRkKpBA?t=0s) 
+[![REmember ME 시연 영상](https://github.com/Team-Remember/.github/blob/main/img/youtube%link.png)](https://youtu.be/0zYosRkKpBA?t=0s) 
