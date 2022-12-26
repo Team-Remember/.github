@@ -27,6 +27,11 @@
 
 ## 기술 융합 구조도
 ![technology structure](https://github.com/Team-Remember/.github/blob/main/img/technology%20convergence%20structure%20diagram.png)
-
+1. 유저의 회원, 로비, 방 정보와 채팅기능, 통신 - Unity를 활용
+2. 다중사용자 환경 - photon 기술
+3. Unity와 통신하는 EC2서버는 트래픽량에 따라서 탄력적으로 관리되어 안정적인 서버 구축
+4. 응용 Api서버에서 필요한 AI api 를 호출하여 AI 의 서버에 부하를 방지하고 기능에 집중
+5. 학습 서버와 추론서버, 자연어 서버와 음성 서버를 분리하여 안정적인 파이프라인을 구축 
+6. 개인화 음성의 경우 model Storage에서 개인별로 checkpoint를 관리
 ## 시연 영상
-[![REmember ME 시연 영상](https://github.com/Team-Remember/.github/blob/main/img/youtube%link.png)](https://youtu.be/0zYosRkKpBA?t=0s) 
+[![REmember ME 시연 영상](https://github.com/Team-Remember/.github/blob/main/img/youtube%20link.png)](https://youtu.be/0zYosRkKpBA?t=0s) 
