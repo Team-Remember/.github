@@ -42,8 +42,8 @@
 ![AI pipeline](https://github.com/Team-Remember/.github/blob/main/img/AI%20pipeline.png)<br>
 
 ## 수상 결과
-- 최종 성과공유회 우수상 수상 (한국전파진흥협회장)
-<img src="https://github.com/Team-Remember/.github/blob/main/img/remember.jpg" style=" width:100mm; height:120mm;"/><br>
+- 최종 성과공유회 우수상 수상 (한국전파진흥협회장)<br>
+<img src="https://github.com/Team-Remember/.github/blob/main/img/remember.jpg" style=" width:100mm; height:120mm;"/>
 
 
 ## 시연 영상
